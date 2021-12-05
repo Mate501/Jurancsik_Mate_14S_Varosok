@@ -1,0 +1,10 @@
+com/example/varosok/BuildConfig.java
+ com.example.varosok.BuildConfig
+com/example/varosok/SearchResultActivity.java
+ com.example.varosok.SearchResultActivity
+com/example/varosok/MainActivity.java
+ com.example.varosok.MainActivity
+com/example/varosok/DBHelper.java
+ com.example.varosok.DBHelper
+com/example/varosok/InsertActivity.java
+ com.example.varosok.InsertActivity
